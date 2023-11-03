@@ -6,6 +6,8 @@
 
 ## First semester
 
-[Test](./S1_KET.md)
+| Title| ECTS |
+|-----|-------|
+| [Key Energy Technology](./S1_KET.md) | 6 |
 
 
